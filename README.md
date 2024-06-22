@@ -112,8 +112,8 @@ The dataset used for this project contains the following columns:
 
 ## Model Evaluation
 Evaluated the model using accuracy and loss metrics:
-- **Accuracy**: 0.9858
-- **Loss**: 0.0593
+- **Accuracy**: 0.9708
+- **Loss**: 0.1041
 
 Plotted the training and validation loss and accuracy to visualize model performance over epochs.
 
